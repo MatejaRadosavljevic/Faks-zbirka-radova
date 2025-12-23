@@ -1,0 +1,54 @@
+1.
+copy my.txt ab.txt   --> kopira prvi fajl u drugi
+
+dir *.txt            --> prikazuje sve .txt fajlove u trenutnom folderu
+
+ren *.txt *.bak      --> menja ekstenziju svih .txt fajlova u .bak ekstenziju
+
+dir                  --> prikazuje sadržaj trenutnog foldera (difoltna trenutna lokacija)
+
+attrib +h ab.bak     --> postavlja hidden atribut fajlu ab.bak (sakriva ga)
+
+type my.bak          --> ispisuje sadržaj fajla my.bak u konzoli
+
+cls                  --> čisti ekran od proslih komandi
+
+dir ..               --> prikazuje sadržaj roditeljskog foldera (onog pre u adresi)
+
+help dir             --> prikazuje pomoć oko komande dir
+
+dir /A:h             --> prikazuje samo skrivene fajlove i foldere
+
+del my.bak           --> briše fajl my.bak
+
+start notepad.exe    --> pokreće Notepad
+
+cd ..                --> prelazi u roditeljski folder (za jedan unazad)
+
+dir .                --> prikazuje sadržaj zeljenog foldera (tipa dir downloads prikazuje downloads folder, dir desktop prikazuje desktop itd.)
+
+
+2.
+a) echo Mateja Radosavljevic 20723 > a.txt
+b) ren a.txt podaci.txt
+c) copy podaci.txt kopija.txt
+d) type kopija.txt
+e) attrib +h podaci.txt
+   attrib +r kopija.txt
+f) tasklist > podaci.txt
+   find "explorer.exe" podaci.txt
+
+
+3.
+echo *** Batch primer ****   --> ispisuje poruku "*** Batch primer ****"
+pause                        --> zaustavlja batch i čeka da pritisneš taster
+mkdir fy sy ty               --> kreira tri foldera u trenutnom direktorijumu: fy, sy, ty
+chdir fy                     --> ulazi u folder fy (ali realno radi isto sto i cd fy)
+@echo off                    --> isključuje prikaz komandi (deo sa adresom pre no sto unosimo kod)
+mkdir morning evening        --> u fy kreira foldera morning i evening
+cd ..\ty                     --> ide nazad u početni direktorijum (tj jedan unazad), zatim ulazi u ty
+mkdir batch 1 batch2         --> u ty kreira tri foldera: batch, 1, batch2
+cd                           --> ispisuje trenutni direktorijum (C:\Users\Mateja\Downloads\ty u mom slucaju jer sam se na pocetku prebacio u drugi folder)
+
+
+
