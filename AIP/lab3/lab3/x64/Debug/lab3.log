@@ -1,0 +1,6 @@
+﻿  v3labfr.c
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab3\lab3\v3labfr.c(9,8): error C2057: expected constant expression
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab3\lab3\v3labfr.c(9,8): error C2466: cannot allocate an array of constant size 0
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab3\lab3\v3labfr.c(9,6): error C2133: 'A': unknown size
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab3\lab3\v3labfr.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab3\lab3\v3labfr.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
