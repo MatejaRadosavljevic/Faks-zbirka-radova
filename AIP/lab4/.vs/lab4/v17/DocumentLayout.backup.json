@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nagon za suicid\\Faks-zbirka-radova\\AIP\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41F04A4-C0A5-47D5-971B-9BB6D57D1E24}|lab4\\lab4.vcxproj|E:\\Nagon za suicid\\Faks-zbirka-radova\\AIP\\lab4\\lab4\\frfrlab4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E41F04A4-C0A5-47D5-971B-9BB6D57D1E24}|lab4\\lab4.vcxproj|solutionrelative:lab4\\frfrlab4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frfrlab4.c",
+              "DocumentMoniker": "E:\\Nagon za suicid\\Faks-zbirka-radova\\AIP\\lab4\\lab4\\frfrlab4.c",
+              "RelativeDocumentMoniker": "lab4\\frfrlab4.c",
+              "ToolTip": "E:\\Nagon za suicid\\Faks-zbirka-radova\\AIP\\lab4\\lab4\\frfrlab4.c*",
+              "RelativeToolTip": "lab4\\frfrlab4.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-18T21:00:13.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

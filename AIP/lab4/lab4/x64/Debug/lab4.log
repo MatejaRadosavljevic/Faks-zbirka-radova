@@ -1,0 +1,5 @@
+﻿  frfrlab4.c
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab4\lab4\frfrlab4.c(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab4\lab4\frfrlab4.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab4\lab4\frfrlab4.c(15,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lab4.vcxproj -> E:\Nagon za suicid\Faks-zbirka-radova\AIP\lab4\x64\Debug\lab4.exe
