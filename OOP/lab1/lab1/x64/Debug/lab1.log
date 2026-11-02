@@ -1,0 +1,5 @@
+﻿  Image_kod.cpp
+  lab1.cpp
+E:\Nagon za suicid\Faks-zbirka-radova\OOP\lab1\lab1\lab1.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  lab1.vcxproj -> E:\Nagon za suicid\Faks-zbirka-radova\OOP\lab1\x64\Debug\lab1.exe

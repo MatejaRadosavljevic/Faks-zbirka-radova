@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C266F0-3D18-49F8-B8FA-8261000FB0C5}|lab1\\lab1.vcxproj|E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7C266F0-3D18-49F8-B8FA-8261000FB0C5}|lab1\\lab1.vcxproj|solutionrelative:lab1\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C266F0-3D18-49F8-B8FA-8261000FB0C5}|lab1\\lab1.vcxproj|E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\Image_kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7C266F0-3D18-49F8-B8FA-8261000FB0C5}|lab1\\lab1.vcxproj|solutionrelative:lab1\\Image_kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C266F0-3D18-49F8-B8FA-8261000FB0C5}|lab1\\lab1.vcxproj|E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7C266F0-3D18-49F8-B8FA-8261000FB0C5}|lab1\\lab1.vcxproj|solutionrelative:lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Image.h",
+              "DocumentMoniker": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\Image.h",
+              "RelativeDocumentMoniker": "lab1\\Image.h",
+              "ToolTip": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\Image.h",
+              "RelativeToolTip": "lab1\\Image.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-02T19:49:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Image_kod.cpp",
+              "DocumentMoniker": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\Image_kod.cpp",
+              "RelativeDocumentMoniker": "lab1\\Image_kod.cpp",
+              "ToolTip": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\Image_kod.cpp",
+              "RelativeToolTip": "lab1\\Image_kod.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T19:50:07.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\lab1.cpp",
+              "RelativeDocumentMoniker": "lab1\\lab1.cpp",
+              "ToolTip": "E:\\Nagon za suicid\\Faks-zbirka-radova\\OOP\\lab1\\lab1\\lab1.cpp",
+              "RelativeToolTip": "lab1\\lab1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T19:45:10.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
