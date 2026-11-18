@@ -1,15 +1,38 @@
 #include <iostream>
 #include "Image.h"
 
-void main()
+int main()
 {
-    Image s1(3,3);
+    Image* s1 = new Image(3, 3);
+    Image* s2 = new Image(3, 3);
 
-    s1.ucitaj();
-    s1.prikazi();
-    s1.dimenzija();
-    s1.crop(2, 2);
-    s1.prikazi();
-    s1.dimenzija();
-    s1.invert();
+    std::cout << "Unesi prvu sliku:\n";
+
+    if (!(std::cin >> *s1))
+    {
+        delete s1;
+        delete s2;
+        return 1;
+    }
+
+    std::cout << "Unesi drugu sliku:\n";
+
+    if (!(std::cin >> *s2))
+    {
+        delete s1;
+        delete s2;
+        return 1;
+    }
+
+    s1->invert();
+    s2->invert();
+
+    std::cout << *s1 << *s2;
+
+    s2->preklop(s1, s2);
+
+    delete s1;
+    delete s2;
+
+    return 0;
 }

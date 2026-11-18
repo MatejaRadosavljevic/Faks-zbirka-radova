@@ -21,9 +21,15 @@
     <ClCompile Include="Image_kod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Kolekcija_kod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kolekcija.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
